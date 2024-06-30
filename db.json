@@ -66,7 +66,7 @@
         "type1":"ریلیتی شو",
         "type2":"گیم شو",
         "description":"اسکار، محصول ویستا مدیا یک رئالیتی شوی چالش محور است که مهمانان آن همگی از بازیگران و افراد مشهور هستند.",
-         "img":"https://i.ibb.co/PzGJH7B/oscaricon.webp", "alt":"serial" , "icon":"./images/serialDetail/oscaricon.webp"}
+         "img":"../../../images/serialDetail/oscar.webp", "alt":"serial" , "icon":"https://i.ibb.co/PzGJH7B/oscaricon.webp"}
 
          
     ],
