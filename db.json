@@ -49,17 +49,17 @@
         {"id":2,"text":"فیلم"}
     ],
     "serialsMostPopular":[
-        {"id":1,"src":"./images/mpstPopularSerial/serial1.webp" , "alt":"serial"},
-        {"id":2,"src":"./images/mpstPopularSerial/serial2.webp" , "alt":"serial"},
-        {"id":3,"src":"./images/mpstPopularSerial/serial3.webp" , "alt":"serial"},
-        {"id":4,"src":"./images/mpstPopularSerial/serial4.webp" , "alt":"serial"},
-        {"id":5,"src":"./images/mpstPopularSerial/serial5.webp" , "alt":"serial"},
-        {"id":6,"src":"./images/mpstPopularSerial/serial6.webp" , "alt":"serial"}
+        {"id":1,"src":"https://i.ibb.co/M92bZ1N/serial1.webp" , "alt":"serial"},
+        {"id":2,"src":"https://i.ibb.co/ZW0Stpc/serial2.webp" , "alt":"serial"},
+        {"id":3,"src":"https://i.ibb.co/1Q8rgmr/serial3.webp" , "alt":"serial"},
+        {"id":4,"src":"https://i.ibb.co/nn1bfx4/serial4.webp" , "alt":"serial"},
+        {"id":5,"src":"https://i.ibb.co/P59fNmw/serial5.webp" , "alt":"serial"},
+        {"id":6,"src":"https://i.ibb.co/t2dgj2s/serial6.webp" , "alt":"serial"}
     ],
     "filmsMostPopular":[
-        {"id":1,"src":"./images/mpstPopularfilm/film1.webp" , "alt":"film"},
-        {"id":2,"src":"./images/mpstPopularfilm/film2.webp" , "alt":"film"},
-        {"id":3,"src":"./images/mpstPopularfilm/film3.webp" , "alt":"film"}
+        {"id":1,"src":"https://i.ibb.co/jwtM0q6/film1.webp" , "alt":"film"},
+        {"id":2,"src":"https://i.ibb.co/9YMv0mz/film2.webp" , "alt":"film"},
+        {"id":3,"src":"https://i.ibb.co/K5htqMw/film3.webp" , "alt":"film"}
     ],
     "serials":[
         {"id":1,"title":"اسکار","director":"مهران مدیری",
