@@ -12,15 +12,15 @@
         {"id":2,"name":"ورود","link":"#"}
     ],
     "slider":[
-        {"id":1,"src":"./images/slider/slider1.webp","alt":"slider"},
-        {"id":2,"src":"./images/slider/slider2.webp","alt":"slider"},
-        {"id":3,"src":"./images/slider/slider3.webp","alt":"slider"},
-        {"id":4,"src":"./images/slider/slider4.webp","alt":"slider"},
-        {"id":5,"src":"./images/slider/slider5.webp","alt":"slider"},
-        {"id":6,"src":"./images/slider/slider6.webp","alt":"slider"},
-        {"id":7,"src":"./images/slider/slider7.webp","alt":"slider"},
-        {"id":8,"src":"./images/slider/slider8.webp","alt":"slider"},
-        {"id":9,"src":"./images/slider/slider9.webp","alt":"slider"}
+        {"id":1,"src":"https://i.ibb.co/x69TmHN/slider1.webp","alt":"slider"},
+        {"id":2,"src":"https://i.ibb.co/nPp41LW/slider2.webp","alt":"slider"},
+        {"id":3,"src":"https://i.ibb.co/pz8nwHy/slider3.webp","alt":"slider"},
+        {"id":4,"src":"https://i.ibb.co/b32FWHZ/slider4.webp","alt":"slider"},
+        {"id":5,"src":"https://i.ibb.co/jb3tBW4/slider5.webp","alt":"slider"},
+        {"id":6,"src":"https://i.ibb.co/K9YFqGK/slider6.webp","alt":"slider"},
+        {"id":7,"src":"https://i.ibb.co/b6vNm8R/slider7.webp","alt":"slider"},
+        {"id":8,"src":"https://i.ibb.co/NjyVsdP/slider8.webp","alt":"slider"},
+        {"id":9,"src":"https://i.ibb.co/WHC5dQs/slider9.webp","alt":"slider"}
     ],
     "offer":[
         {"id":1,"text":"90 هزار اپیزود فیلم و سریال برای تماشا داری"},
