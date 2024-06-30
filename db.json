@@ -66,33 +66,33 @@
         "type1":"ریلیتی شو",
         "type2":"گیم شو",
         "description":"اسکار، محصول ویستا مدیا یک رئالیتی شوی چالش محور است که مهمانان آن همگی از بازیگران و افراد مشهور هستند.",
-         "img":"../../../images/serialDetail/oscar.webp", "alt":"serial" , "icon":"./images/serialDetail/oscaricon.webp"}
+         "img":"https://i.ibb.co/PzGJH7B/oscaricon.webp", "alt":"serial" , "icon":"./images/serialDetail/oscaricon.webp"}
 
          
     ],
     "swiperserial1":[
-        {"id":1,"src":"./images/serialDetail/slider/serial1/slider1.webp","title":"فصل 1 قسمت 1"},
-        {"id":2,"src":"./images/serialDetail/slider/serial1/slider2.webp","title":"فصل 1 قسمت 2"},
-        {"id":3,"src":"./images/serialDetail/slider/serial1/slider3.webp","title":"فصل 1 قسمت 3"},
-        {"id":4,"src":"./images/serialDetail/slider/serial1/slider4.webp","title":"فصل 1 قسمت 4"}
+        {"id":1,"src":"https://i.ibb.co/80bCLLR/slider1.webp","title":"فصل 1 قسمت 1"},
+        {"id":2,"src":"https://i.ibb.co/RYwKjv5/slider2.webp","title":"فصل 1 قسمت 2"},
+        {"id":3,"src":"https://i.ibb.co/B2CPP06/slider3.webp","title":"فصل 1 قسمت 3"},
+        {"id":4,"src":"https://i.ibb.co/3fdYXBM/slider4.webp","title":"فصل 1 قسمت 4"}
     ],
     "watch":[
-        {"id":1,"src":"./images/watch/deviceYaghi.webp","title":"تماشای فیلیمو با همه دستگاه ها","description":"می توانید فیلیمو را به صورت هم زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ تاپ، تلویزیون و ... تماشا کنید."}
+        {"id":1,"src":"https://i.ibb.co/fqg1579/device-Yaghi.webp","title":"تماشای فیلیمو با همه دستگاه ها","description":"می توانید فیلیمو را به صورت هم زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ تاپ، تلویزیون و ... تماشا کنید."}
     ],
     "devices":[
-        {"id":1,"icon":"./images/watch/laptop.webp","title":"کامپیوتر و لپ تاپ","detail":"windows PC - MacOS - Chorom OS"},
-        {"id":2,"icon":"./images/watch/mobile.webp","title":"موبایل و تبلت","detail":"Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"},
-        {"id":3,"icon":"./images/watch/game.webp","title":"کنسول های بازی (Browser)","detail":"Xbox Series S - Xbox Seris X - PS5 - PS4"}
+        {"id":1,"icon":"https://i.ibb.co/cchkg1Y/laptop.webp","title":"کامپیوتر و لپ تاپ","detail":"windows PC - MacOS - Chorom OS"},
+        {"id":2,"icon":"https://i.ibb.co/BnKqqBN/mobile.webp","title":"موبایل و تبلت","detail":"Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"},
+        {"id":3,"icon":"https://i.ibb.co/nkRQwqx/game.webp","title":"کنسول های بازی (Browser)","detail":"Xbox Series S - Xbox Seris X - PS5 - PS4"}
     ],
     "learn":[
-        {"id":1,"src":"./images/learn/TVBG.webp","title":"چطور با تلویزیون، فیلیمو تماشا کنم؟","description":"ما برای راحتی شما و تماشای فیلیمو روی تلویزیون های مختلف 6 روش را فراهم کردیم. هر کدام از این 6 روش یک ویدیو آموزشی دارند که می توانید از لینک زیر، آن ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید.","btn":"ویدیوهای آموزشی تماشا با تلویزیون >"}
+        {"id":1,"src":"https://i.ibb.co/ryftCqh/TVBG.webp","title":"چطور با تلویزیون، فیلیمو تماشا کنم؟","description":"ما برای راحتی شما و تماشای فیلیمو روی تلویزیون های مختلف 6 روش را فراهم کردیم. هر کدام از این 6 روش یک ویدیو آموزشی دارند که می توانید از لینک زیر، آن ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید.","btn":"ویدیوهای آموزشی تماشا با تلویزیون >"}
     ],
     "learnDevices":[
-        {"id":1,"icon":"./images/learn/TV.webp","title":"تلویزیون","description":"Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"},
-        {"id":2,"icon":"./images/learn/androidTV.webp","title":"اندروید تی وی","description":"NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"}
+        {"id":1,"icon":"https://i.ibb.co/sKvKnNy/TV.webp","title":"تلویزیون","description":"Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"},
+        {"id":2,"icon":"https://i.ibb.co/gvNbH4w/android-TV.webp","title":"اندروید تی وی","description":"NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"}
     ],
     "world":[
-        {"id":1,"img":"./images/world/bg-kids.webp","title":"دنیایی متنوع از فیلم و کارتون های کودکانه","description":"ساخت فیلیمو کودک این امکان را می دهد که با انتخاب سن فرزندتان، یک فضای امن برای تماشای کودک بسازید؛ یعنی محتوای مخصوص سن خودش را ببیند و به بقیه فیلم و سریال ها دسترسی نداشته باشد."}
+        {"id":1,"img":"https://i.ibb.co/L0T0KNq/bg-kids.webp","title":"دنیایی متنوع از فیلم و کارتون های کودکانه","description":"ساخت فیلیمو کودک این امکان را می دهد که با انتخاب سن فرزندتان، یک فضای امن برای تماشای کودک بسازید؛ یعنی محتوای مخصوص سن خودش را ببیند و به بقیه فیلم و سریال ها دسترسی نداشته باشد."}
     ],
     "worldBtns":[
         {"id":1,"title":"فیلیمو کودک بساز"},
