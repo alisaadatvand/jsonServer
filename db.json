@@ -107,12 +107,12 @@
         {"id":3,"text":"خرید یک بلیت برای تماشا همراه با همه خانواده"}
     ],
     "onlineFilms":[
-        {"id":1,"src":"./images/online/film1.webp","title":"نگهبان شب","type":"اکران آنلاین","director":"رضا میرکریمی","btn":"خرید بلیت","cat1":"درام","cat2":""},
-        {"id":2,"src":"./images/online/film2.webp","title":"گیجگاه","type":"اکران آنلاین","director":"عادل تبریزی","btn":"خرید بلیت","cat1":"کمدی","cat2":"عاشقانه"},
-        {"id":3,"src":"./images/online/film3.webp","title":"فسیل","type":"اکران آنلاین","director":"کریم امینی","btn":"خرید بلیت","cat1":"کمدی","cat2":"خانوادگی"},
-        {"id":4,"src":"./images/online/film4.webp","title":"کاپیتان","type":"اکران آنلاین","director":"محمد حمزه ای","btn":"خرید بلیت","cat1":"درام","cat2":"خانوادگی"},
-        {"id":5,"src":"./images/online/film5.webp","title":"جنگل پرتقال","type":"اکران آنلاین","director":"آرمان خوانساریان","btn":"خرید بلیت","cat1":"درام","cat2":"عاشقانه"},
-        {"id":6,"src":"./images/online/film6.webp","title":"نارگیل 2","type":"اکران آنلاین","director":"داوود اطیابی","btn":"خرید بلیت","cat1":"کمدی","cat2":"موزیکال"}
+        {"id":1,"src":"https://i.ibb.co/j8C423J/film1.webp","title":"نگهبان شب","type":"اکران آنلاین","director":"رضا میرکریمی","btn":"خرید بلیت","cat1":"درام","cat2":""},
+        {"id":2,"src":"https://i.ibb.co/7zDHWrW/film2.webp","title":"گیجگاه","type":"اکران آنلاین","director":"عادل تبریزی","btn":"خرید بلیت","cat1":"کمدی","cat2":"عاشقانه"},
+        {"id":3,"src":"https://i.ibb.co/RCWQQCf/film3.webp","title":"فسیل","type":"اکران آنلاین","director":"کریم امینی","btn":"خرید بلیت","cat1":"کمدی","cat2":"خانوادگی"},
+        {"id":4,"src":"https://i.ibb.co/H2pzxsN/film4.webp","title":"کاپیتان","type":"اکران آنلاین","director":"محمد حمزه ای","btn":"خرید بلیت","cat1":"درام","cat2":"خانوادگی"},
+        {"id":5,"src":"https://i.ibb.co/GJ6p63C/film5.webp":"جنگل پرتقال","type":"اکران آنلاین","director":"آرمان خوانساریان","btn":"خرید بلیت","cat1":"درام","cat2":"عاشقانه"},
+        {"id":6,"src":"https://i.ibb.co/F8j52DL/film6.webp","title":"نارگیل 2","type":"اکران آنلاین","director":"داوود اطیابی","btn":"خرید بلیت","cat1":"کمدی","cat2":"موزیکال"}
     ],
     "commentsTitle":[
         {"id":1,"title":"نظر کاربران بعد از تماشای فیلیمو"}
@@ -139,7 +139,7 @@
         {"id":4,"title":"از کجا می توانم نرم افزار اندروید یا ios فیلیمو را دانلود کنم؟","answer":"برای نصب نرم افزار اندرئیدی فیلیمو می توانید از طریق کافه بازار یا ماکت اقدام به دانلود کنید. یا می توانید روی گزینه رو به رو بزنید و به طور مستقیم فایل نرم افزار را دریافت کنید. (دانلود مستقیم نرم افزار اندروید) برای دانلود نرم افزار ios فیلیمو نیز کافیست روی گزینه رو به رو بزنید و به طور مستقیم فایل نرم افزار را دریافت کنید. (دانلود مستقیم نرم افزار ios)"}
     ],
     "filimo":[
-        {"id":1,"icon":"./images/filimo/logo_text.webp","btn":"خرید اشتراک و تماشا"}
+        {"id":1,"icon":"https://i.ibb.co/kyhspNf/logo-text.webp","btn":"خرید اشتراک و تماشا"}
     ],
     "filimoDescription":[
         {"id":1,"text":"هزاران فیلم و سریال خارجی (دوبله و زیرنویس)"},
@@ -164,21 +164,21 @@
         {"id":1,"title":"محتواهای رایگان"}
     ],
     "free":[
-        {"id":1,"src":"./images/freeSlider/slider1.webp","title":"پایتخت"},
-        {"id":2,"src":"./images/freeSlider/slider2.webp","title":"عقرب"},
-        {"id":3,"src":"./images/freeSlider/slider3.webp","title":"ملکه گدایان"},
-        {"id":4,"src":"./images/freeSlider/slider4.webp","title":"شاهرگ"},
-        {"id":5,"src":"./images/freeSlider/slider5.webp","title":"بالشها"},
-        {"id":6,"src":"./images/freeSlider/slider6.webp","title":"حماسه دره شیلر"},
-        {"id":7,"src":"./images/freeSlider/slider7.webp","title":"شب های مافیا 2"},
-        {"id":8,"src":"./images/freeSlider/slider8.webp","title":"مردم معمولی"},
-        {"id":9,"src":"./images/freeSlider/slider9.webp","title":"دیرین دیرین"},
-        {"id":10,"src":"./images/freeSlider/slider10.webp","title":"سال های دور از خانه"},
-        {"id":11,"src":"./images/freeSlider/slider11.webp","title":"دراکولا"},
-        {"id":12,"src":"./images/freeSlider/slider12.webp","title":"سجاده آتش"},
-        {"id":13,"src":"./images/freeSlider/slider13.webp","title":"شب های مافیا"},
-        {"id":14,"src":"./images/freeSlider/slider14.webp","title":"خوب،بد،جلف:رادیواکتیو"},
-        {"id":15,"src":"./images/freeSlider/slider15.webp","title":"رفیق فابریک"}
+        {"id":1,"src":"https://i.ibb.co/ZxrKKpQ/slider1.webp","title":"پایتخت"},
+        {"id":2,"src":"https://i.ibb.co/YZ0SxHb/slider2.webp","title":"عقرب"},
+        {"id":3,"src":"https://i.ibb.co/MNMzDvr/slider3.webp","title":"ملکه گدایان"},
+        {"id":4,"src":"https://i.ibb.co/kBZPC7y/slider4.webp","title":"شاهرگ"},
+        {"id":5,"src":"https://i.ibb.co/Xz99Rdw/slider5.webp","title":"بالشها"},
+        {"id":6,"src":"https://i.ibb.co/k4m0c05/slider6.webp","title":"حماسه دره شیلر"},
+        {"id":7,"src":"https://i.ibb.co/TY10Q5V/slider7.webp","title":"شب های مافیا 2"},
+        {"id":8,"src":"https://i.ibb.co/q0XvNZh/slider8.webp","title":"مردم معمولی"},
+        {"id":9,"src":"https://i.ibb.co/mCDDG0C/slider9.webp","title":"دیرین دیرین"},
+        {"id":10,"src":"https://i.ibb.co/cXMvW5w/slider10.webp","title":"سال های دور از خانه"},
+        {"id":11,"src":"https://i.ibb.co/YbMSkLJ/slider11.webp","title":"دراکولا"},
+        {"id":12,"src":"https://i.ibb.co/VM6Zr4v/slider12.webp","title":"سجاده آتش"},
+        {"id":13,"src":"https://i.ibb.co/YjqQPgZ/slider13.webp","title":"شب های مافیا"},
+        {"id":14,"src":"https://i.ibb.co/McRv5fh/slider14.webp","title":"خوب،بد،جلف:رادیواکتیو"},
+        {"id":15,"src":"https://i.ibb.co/RbFH7wg/slider15.webp","title":"رفیق فابریک"}
     ]
 
 }
