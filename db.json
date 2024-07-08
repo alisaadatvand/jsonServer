@@ -111,7 +111,7 @@
         {"id":2,"src":"https://i.ibb.co/7zDHWrW/film2.webp","title":"گیجگاه","type":"اکران آنلاین","director":"عادل تبریزی","btn":"خرید بلیت","cat1":"کمدی","cat2":"عاشقانه"},
         {"id":3,"src":"https://i.ibb.co/RCWQQCf/film3.webp","title":"فسیل","type":"اکران آنلاین","director":"کریم امینی","btn":"خرید بلیت","cat1":"کمدی","cat2":"خانوادگی"},
         {"id":4,"src":"https://i.ibb.co/H2pzxsN/film4.webp","title":"کاپیتان","type":"اکران آنلاین","director":"محمد حمزه ای","btn":"خرید بلیت","cat1":"درام","cat2":"خانوادگی"},
-        {"id":5,"src":"https://i.ibb.co/GJ6p63C/film5.webp":"جنگل پرتقال","type":"اکران آنلاین","director":"آرمان خوانساریان","btn":"خرید بلیت","cat1":"درام","cat2":"عاشقانه"},
+        {"id":5,"src":"https://i.ibb.co/GJ6p63C/film5.webp","title":"جنگل پرتقال","type":"اکران آنلاین","director":"آرمان خوانساریان","btn":"خرید بلیت","cat1":"درام","cat2":"عاشقانه"},
         {"id":6,"src":"https://i.ibb.co/F8j52DL/film6.webp","title":"نارگیل 2","type":"اکران آنلاین","director":"داوود اطیابی","btn":"خرید بلیت","cat1":"کمدی","cat2":"موزیکال"}
     ],
     "commentsTitle":[
