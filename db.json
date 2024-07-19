@@ -1,15 +1,16 @@
 {
     "menu":[
-        {"id":1,"name":"فیلیمو","link":"#"},
+        {"id":1,"name":"فیلیمو","link":"/"},
         {"id":2,"name":"فیلیموتور","link":"#"},
         {"id":3,"name":"فیلیمومدرسه","link":"#"},
-        {"id":4,"name":"جستجو","link":"#"}
+        {"id":4,"name":"جستجو","link":"#"},
+        {"id":5,"name":"ادمین پنل","link":"/panel"},
     ],
     "sub":[
         {"id":1,"name":"خرید اشتراک","link":"#"}
     ],
     "login":[
-        {"id":2,"name":"ورود","link":"#"}
+        {"id":2,"name":"ورود","link":"/login"}
     ],
     "slider":[
         {"id":1,"src":"https://i.ibb.co/x69TmHN/slider1.webp","alt":"slider"},
